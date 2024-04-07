@@ -1,0 +1,16 @@
+gitlab
+github
+facebook
+google
+linkedin
+instagram
+microsoft
+bitbucket
+twitter
+openshift-v4
+openshift-v3
+paypal
+stackoverflow
+saml
+oidc
+keycloak-oidc
