@@ -16,5 +16,3 @@ security-admin-console
 shasta
 system-compute-client
 system-pxe-client
-
-
